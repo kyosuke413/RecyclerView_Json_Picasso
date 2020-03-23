@@ -1,0 +1,2 @@
+rootProject.name='RecyclerView_Json_Picasso'
+include ':app'
